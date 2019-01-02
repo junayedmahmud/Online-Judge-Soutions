@@ -1,2 +1,2 @@
 # DevSkill-Solutions
-Here you will find my own solution for DevSkill
+Here you will find my solution for DevSkill
